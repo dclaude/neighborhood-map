@@ -1,0 +1,24 @@
+.admin-LocationAdd {
+  display: flex;
+  flex-direction: column;
+  padding: 10%;
+  max-width: 400px;
+  flex: 1;
+}
+
+.admin-LocationAdd-label {
+  padding: 1%;
+  margin: 1%;
+}
+
+.admin-LocationAdd-input {
+  padding: 1em;
+  margin: 1%;
+  border: solid 1px;
+}
+
+.admin-LocationAdd-button {
+  padding: 1em;
+  margin: 1%;
+}
+

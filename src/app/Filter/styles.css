@@ -1,0 +1,13 @@
+.app-Filter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 1;
+}
+
+.app-Filter-input {
+  padding: 1em;
+  margin: 1%;
+  border: solid 1px;
+}
+

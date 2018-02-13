@@ -1,0 +1,24 @@
+.admin-Admin {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10%;
+}
+
+.admin-Admin-button {
+  padding: 1em;
+  margin: 1%;
+  max-width: 400px;
+}
+
+.admin-Admin-label {
+  padding: 1%;
+  margin: 1%;
+}
+
+.admin-Admin-select {
+  padding: 1em;
+  margin: 1%;
+  max-width: 400px;
+}
+

@@ -1,0 +1,30 @@
+.gmaps-StreetViewQuery {
+  display: flex;
+  flex-direction: column;
+  padding: 5%;
+  flex: 1;
+}
+
+.gmaps-StreetViewQuery-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 400px;
+}
+
+.gmaps-StreetViewQuery-label {
+  padding: 1%;
+  margin: 1%;
+}
+
+.gmaps-StreetViewQuery-input {
+  padding: 1em;
+  margin: 1%;
+  border: solid 1px;
+}
+
+.gmaps-StreetViewQuery-button {
+  padding: 1em;
+  margin: 1%;
+}
+

@@ -1,0 +1,21 @@
+.location-Locations {
+  display: flex;
+  flex-direction: column;
+}
+
+.location-Locations-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.location-Locations-listItem {
+  display: flex;
+  flex-direction: column;
+}
+
+.location-Locations-button {
+  padding: 1em;
+  margin: 1%;
+  background-color: white;
+}
+

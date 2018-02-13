@@ -1,0 +1,8 @@
+[
+  { "label": "Paris", "latLng": { "lat": 48.856614, "lng": 2.3522219000000177 } },
+  { "label": "Strasbourg", "latLng": { "lat": 48.5734053, "lng": 7.752111300000024 } },
+  { "label": "Marseille", "latLng": { "lat": 43.296482, "lng": 5.369779999999992 } },
+  { "label": "Lyon", "latLng": { "lat": 45.764043, "lng": 4.835658999999964 } },
+  { "label": "Bordeaux", "latLng": { "lat": 44.837789, "lng": -0.5791799999999512 } },
+  { "label": "Brest", "latLng": { "lat": 48.390394, "lng": -4.4860760000000255 } }
+]

@@ -1,0 +1,23 @@
+.admin-LocationRemove {
+  display: flex;
+  flex-direction: column;
+  padding: 10%;
+  max-width: 400px;
+  flex: 1;
+}
+
+.admin-LocationRemove-label {
+  padding: 1%;
+  margin: 1%;
+}
+
+.admin-LocationRemove-select {
+  padding: 1em;
+  margin: 1%;
+}
+
+.admin-LocationRemove-button {
+  padding: 1em;
+  margin: 1%;
+}
+

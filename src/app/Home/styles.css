@@ -1,0 +1,43 @@
+.app-Home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-Home-adminButton {
+  padding: 1em;
+  margin: 1%;
+}
+
+.menu {
+  /* display is set in JS */
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.app-Home-menuButton {
+  background-color: white;
+  padding: 1em;
+  margin: 1%;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1%;
+}
+
+.locations {
+  display: flex;
+  /* flex-direction is set in JS */
+}
+
