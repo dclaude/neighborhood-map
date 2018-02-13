@@ -79,7 +79,6 @@ class Map extends Component {
             // render children
             map ?
             React.Children.map(children, child => {
-              this.bounds.extend(child.props.latLng)
               return React.cloneElement(child, { map, bounds }) // add map and bounds props to the existing props of each child
             })
             : null
